@@ -7,4 +7,4 @@
 
 # Метод Соболя
 
-
+![image](https://user-images.githubusercontent.com/50016345/56853175-b228b300-692c-11e9-83dc-d861aff5d454.png)
