@@ -5,4 +5,6 @@
 
 ![image](https://user-images.githubusercontent.com/50016345/56853081-c15b3100-692b-11e9-8766-2bd11daaa3bd.png)
 
+# Метод Соболя
+
 
