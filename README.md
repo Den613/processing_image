@@ -8,3 +8,5 @@
 # Метод Соболя
 
 ![image](https://user-images.githubusercontent.com/50016345/56853175-b228b300-692c-11e9-83dc-d861aff5d454.png)
+
+![image](https://user-images.githubusercontent.com/50016345/56853212-3ed37100-692d-11e9-9885-9955dcf0f931.png)
