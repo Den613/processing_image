@@ -18,3 +18,4 @@
 
 # Медианный фильтр
 
+![Ba0wFEaVrS4](https://user-images.githubusercontent.com/50016345/56853370-69bec480-692f-11e9-8f1f-c33acf09488d.jpg)
